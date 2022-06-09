@@ -1,0 +1,25 @@
+{
+  "name": "react-base",
+  "version": "1.0.0",
+  "description": "Project abuot react and npm",
+  "main": "src/inde.js\u001b[D\u001b[D\u001b[Dx.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lauracelis/react-base.git"
+  },
+  "keywords": [
+    "react",
+    "package",
+    "json",
+    "npm"
+  ],
+  "author": "Laura Celis <lauracelis436@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lauracelis/react-base/issues"
+  },
+  "homepage": "https://github.com/Lauracelis/react-base#readme"
+}
